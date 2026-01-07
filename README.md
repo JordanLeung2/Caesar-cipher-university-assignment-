@@ -1,1 +1,1 @@
-This is one of the university assignment that I have done and received a good grade with. However no one should be copy and pasting this to be used in their own assignment. (if you are actually doing so, computer science is probably not for you.)
+This is one of the university assignment that I have done and received a good grade with. However no one should be copy and pasting this to be used in their own assignment. 
